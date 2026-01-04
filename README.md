@@ -84,7 +84,7 @@ This project demonstrates a complete analytics pipeline from raw data ingestion 
 
 ## 👤 Author
 
-**Sahith Kotaru**  
+**Venkata Sahith Kotaru**  
 Data Analytics Intern  
 
 ---
